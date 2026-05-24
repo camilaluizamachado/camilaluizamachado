@@ -11,7 +11,10 @@ Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em São Luís - MA e sou es
 - **Linguagens & Lógica:** Projetos iniciais em programação (Python) e automação.
 - **Dados:** Análise de dados estruturados e relatórios.
 - **DevOps/Versionamento:** Git e GitHub.
-  
+
+### 🐍 Meu Gráfico da Cobrinha
+
+![Snake animation](https://githubusercontent.com)
 <!--
 **camilaluizamachado/camilaluizamachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
