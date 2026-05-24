@@ -1,16 +1,27 @@
+<div align="center">
+
 # Olá, eu sou a Camila Luiza! 👋
 
-Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em São Luís - MA e sou estudante de **Engenharia da Computação**.Usei este espaço para registrar minha evolução acadêmica e os projetos práticos que desenvolvo.
+Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em **São Luís - MA** e sou estudante de **Engenharia da Computação**.  
+Uso este espaço para registrar minha evolução acadêmica e os projetos práticos que desenvolvo.
+
+---
 
 ### 🛠️ Sobre mim
-- 🎓 **Formação:** Graduanda em Engenharia da Computação.
-- 📊 **Áreas de interesse:** Análise de Dados, Arquitetura de Software e Desenvolvimento.
-- 💡 **Objetivo:** Unir os conceitos de hardware e software da engenharia para construir soluções eficientes e inteligentes.
+
+🎓 Graduanda em Engenharia da Computação  
+📊 Interesse em Análise de Dados, Arquitetura de Software e Desenvolvimento  
+💡 Objetivo: unir hardware e software para construir soluções eficientes e inteligentes
+
+---
 
 ### 🧰 Tecnologias e Ferramentas
-- **Linguagens & Lógica:** Projetos iniciais em programação (Python) e automação.
-- **Dados:** Análise de dados estruturados e relatórios.
-- **DevOps/Versionamento:** Git e GitHub.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### 🐍 Meu Gráfico da Cobrinha
 
@@ -23,17 +34,4 @@ Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em São Luís - MA e sou es
     src="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-**camilaluizamachado/camilaluizamachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
