@@ -11,6 +11,13 @@ Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em São Luís - MA e sou es
 - **Linguagens & Lógica:** Projetos iniciais em programação (Python) e automação.
 - **Dados:** Análise de dados estruturados e relatórios.
 - **DevOps/Versionamento:** Git e GitHub.
+  
+### 📊 Minhas Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" />
+</p>
 <!--
 **camilaluizamachado/camilaluizamachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
