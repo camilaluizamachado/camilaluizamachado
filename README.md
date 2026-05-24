@@ -14,7 +14,8 @@ Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em São Luís - MA e sou es
 
 ### 🐍 Meu Gráfico da Cobrinha
 
-![Snake animation](https://githubusercontent.com)
+github.com/camilaluizamachado/camilaluizamachado/tree/output
+
 <!--
 **camilaluizamachado/camilaluizamachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
