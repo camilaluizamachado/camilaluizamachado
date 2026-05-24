@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Camila Luiza! 👋
+# Olá, eu sou a Camila Luiza! 
 
 Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em **São Luís - MA** e sou estudante de **Engenharia da Computação**.  
 Uso este espaço para registrar minha evolução acadêmica e os projetos práticos que desenvolvo.
