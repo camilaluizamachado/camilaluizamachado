@@ -11,7 +11,7 @@ Uso este espaço para registrar minha evolução acadêmica e os projetos práti
 
 🎓 Graduanda em Engenharia da Computação  
 📊 Interesse em Análise de Dados, Arquitetura de Software e Desenvolvimento  
-💡 Objetivo: unir hardware e software para construir soluções eficientes e inteligentes
+
 
 ---
 
