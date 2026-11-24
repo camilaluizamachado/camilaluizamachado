@@ -26,13 +26,19 @@ I use this space to document my academic journey, research, and hands-on project
 * **🔌 Healthcare API Project:** Development and integration of APIs for healthcare sector solutions.
 
 ---
+### 🛠️ About Me
 
-### 🧰 Technologies & Tools
+🎓 Degree in Computer Engineering  
+📊 Interests: Data Analysis, Software Architecture, and Development  
 
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+
+---
+
+### 🧰 Technologies and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -40,11 +46,11 @@ I use this space to document my academic journey, research, and hands-on project
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://githubusercontent.com">
+    srcset="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://githubusercontent.com">
+    srcset="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake.svg">
   <img alt="snake animation"
-    src="https://githubusercontent.com">
+    src="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
