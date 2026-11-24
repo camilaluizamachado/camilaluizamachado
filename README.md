@@ -1,37 +1,50 @@
 <div align="center">
 
-# Olá, eu sou a Camila Luiza! 
+# Hi, I'm Camila Luiza! 👋
 
-Seja bem-vindo(a) ao meu perfil! Tenho 21 anos, moro em **São Luís - MA** e sou estudante de **Engenharia da Computação**.  
-Uso este espaço para registrar minha evolução acadêmica e os projetos práticos que desenvolvo.
-
----
-
-### 🛠️ Sobre mim
-
-🎓 Graduanda em Engenharia da Computação  
-📊 Interesse em Análise de Dados, Arquitetura de Software e Desenvolvimento  
-
+Welcome to my profile! I'm 22 years old, based in **São Luís - MA, Brazil**, and I'm an undergraduate student in **Computer Engineering**.  
+I use this space to document my academic journey, research, and hands-on projects in software development and data.
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🛠️ About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎓 Undergraduate student in **Computer Engineering**  
+💻 Focused on **Data Engineering**, **Back-end Development**, **Software Architecture**, and **Computer Vision**  
+🔬 **Undergraduate Researcher** (Computer Vision applied to urban traffic)  
+🏥 Member of **PET-Saúde** (Software development and security for healthcare systems)  
+🚀 **Hackathon** Participant (Document automation and intelligent analysis)  
+🌱 Looking for **Internship opportunities in Tech / Data**  
 
 ---
 
-### 🐍 Meu Gráfico da Cobrinha
+### 🚀 Featured Projects & Activities
+
+* **👁️ Scientific Research — Computer Vision:** Research and development of an application focused on urban traffic analysis and monitoring.
+* **🏥 PET-Saúde System (Caxias):** Development of a healthcare-focused system, emphasizing software architecture and application security.
+* **📄 Intelligent Automation (Hackathon):** Python prototype developed for automated document extraction and analysis.
+* **🔌 Healthcare API Project:** Development and integration of APIs for healthcare sector solutions.
+
+---
+
+### 🧰 Technologies & Tools
+
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+### 🐍 My Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake.svg">
-  <img alt="animação de cobra"
-    src="https://raw.githubusercontent.com/camilaluizamachado/camilaluizamachado/output/github-contribution-grid-snake.svg">
+    srcset="https://githubusercontent.com">
+  <img alt="snake animation"
+    src="https://githubusercontent.com">
 </picture>
 
 </div>
